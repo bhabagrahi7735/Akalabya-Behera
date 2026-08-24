@@ -1,0 +1,6 @@
+{
+  "name": "Akalabya",
+  "description": "A premium, minimal, private daily journal with distraction-free writing, mood tracking, cloud sync, and streaks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Akalabya</string>
+    <string name="tagline">Private Minimal Journal</string>
+    <string name="calm">Calm</string>
+    <string name="bright">Bright</string>
+    <string name="heavy">Heavy</string>
+    <string name="restless">Restless</string>
+</resources>

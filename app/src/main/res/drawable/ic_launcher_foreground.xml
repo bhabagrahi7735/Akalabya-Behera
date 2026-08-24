@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="21"
+        android:translateY="21"
+        android:scaleX="0.61"
+        android:scaleY="0.61">
+        <!-- Notebook Base -->
+        <path
+            android:fillColor="#E8DFD8"
+            android:pathData="M24,12 L80,12 C84.4,12 88,15.6 88,20 L88,88 C88,92.4 84.4,96 80,96 L24,96 C19.6,96 16,92.4 16,88 L16,20 C16,15.6 19.6,12 24,12 Z" />
+        <!-- Notebook Spine -->
+        <path
+            android:fillColor="#D4A373"
+            android:pathData="M16,20 C16,15.6 19.6,12 24,12 L30,12 L30,96 L24,96 C19.6,96 16,92.4 16,88 Z" />
+        <!-- Ribbon Bookmark -->
+        <path
+            android:fillColor="#E07A5F"
+            android:pathData="M60,12 L72,12 L72,48 L66,42 L60,48 Z" />
+        <!-- Journal Lines -->
+        <path
+            android:fillColor="#B7B7A4"
+            android:pathData="M38,34 L54,34 A2,2 0 0,0 54,30 L38,30 A2,2 0 0,0 38,34 Z" />
+        <path
+            android:fillColor="#B7B7A4"
+            android:pathData="M38,46 L54,46 A2,2 0 0,0 54,42 L38,42 A2,2 0 0,0 38,46 Z" />
+        <path
+            android:fillColor="#B7B7A4"
+            android:pathData="M38,58 L76,58 A2,2 0 0,0 76,54 L38,54 A2,2 0 0,0 38,58 Z" />
+        <path
+            android:fillColor="#B7B7A4"
+            android:pathData="M38,70 L68,70 A2,2 0 0,0 68,66 L38,66 A2,2 0 0,0 38,70 Z" />
+    </group>
+</vector>
